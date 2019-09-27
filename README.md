@@ -1,1 +1,1 @@
-Updating READ.ME to check Github pages
+# This repository is for the Coursera Capstone project.
