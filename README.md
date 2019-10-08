@@ -1,2 +1,1 @@
-# Coursera_Capstone
-A repository for Coursera capstone project
+# This repository is for the Coursera Capstone project.
